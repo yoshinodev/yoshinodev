@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoshinodev&label=Profile%20views&color=0e75b6&style=flat" alt="yoshinodev" /> </p>
 
-- 🌱 I’m currently learning **javascript, java, and C#**
+- 🌱 I’m currently learning **Javascript, Java, and C#**
 
 - 📫 How to reach me **a.gilbertt3@gmail.com**
 
