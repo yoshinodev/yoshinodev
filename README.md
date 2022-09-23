@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoshinodev&label=Profile%20views&color=0e75b6&style=flat" alt="yoshinodev" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Java, and C#**
-
-- 📫 How to reach me **a.gilbertt3@gmail.com**
+- 🌱 I’m currently learning **Angular, PHP and C#**
+- 💼 My portfolio can be found it here: https://mybasement.vercel.app/
+- 📫 How to reach me **a.gilbertt3@hotmail.com**
 
 - ⚡ Fun fact **I'm also a psychology student, guess I just love to understand behavior of both humans and things!**
 - 😄 Pronouns: She/her
