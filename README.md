@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoshinodev&label=Profile%20views&color=0e75b6&style=flat" alt="yoshinodev" /> </p>
 
-- 🌱 I’m currently learning **Angular, PHP and C#**
+- 🌱 I’m currently learning **React and React Native**
 - 💼 My portfolio can be found here: https://mybasement.vercel.app/
 - 📫 How to reach me **a.gilbertt3@hotmail.com**
 
