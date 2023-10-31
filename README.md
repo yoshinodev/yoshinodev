@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoshinodev&label=Profile%20views&color=0e75b6&style=flat" alt="yoshinodev" /> </p>
 
-- 🌱 I’m currently learning **React and React Native**
-- 💼 My portfolio can be found here: https://mybasement.vercel.app/
+- 🌱 I’m currently learning **Python, Data Analysys, React and React Native**
 - 📫 How to reach me **a.gilbertt3@hotmail.com**
 
 - ⚡ Fun fact **I'm also a psychology student, guess I just love to understand behavior of both humans and things!**
