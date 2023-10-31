@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Python, Data Analysys, React and React Native**
 - 📫 How to reach me **a.gilbertt3@hotmail.com**
 
-- ⚡ Fun fact **I'm also a psychology student, guess I just love to understand behavior of both humans and things!**
+- ⚡ Fun fact **I was also a psychology student, guess I just love to understand behavior of both humans and things!**
 - 😄 Pronouns: She/her
 
 <h3 align="left">Connect with me:</h3>
